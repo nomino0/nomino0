@@ -1,14 +1,22 @@
-- 👋 Hi, I’m @nomino0
-- 👀 I’m interested in Art , Minimalism and Creation
-- 🌱 I’m currently learning IOT and Embedded Systems 
-- 💞️ I’m looking to collaborate on Future Projects 
-- 📫 How to reach me aminemayoufi@ieee.org 
-____
+### Hi there, I'm Amine! 👋
+
+I'm passionate about Art, Minimalism, and Creation. Currently, I'm diving into the realms of IoT and Embedded Systems, exploring the intersection of technology and creativity.
+
+🔭 I’m currently working on projects that merge my interests in art and technology.
+🌱 I’m currently learning more about IoT and Embedded Systems.
+💬 Ask me about anything related to art, technology, or minimalism.
+📫 Reach me at: aminemayoufi@ieee.org
+
+### GitHub Stats
+
 [![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=nomino0&show_icons=true&theme=tokyonight)](https://github.com/nomino0/github-readme-stats)
 
+### Top Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomino0&show_icons=true&theme=tokyonight)](https://github.com/nomino0/github-readme-stats) 
- 
-<!---
-nomino0/nomino0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### Let's Connect
+
+📧 Email: aminemayoufi@ieee.org
+🔗 LinkedIn: [Amine Mayoufi](https://www.linkedin.com/in/aminemayoufi/)
+🌐 Personal Website: [Your Website](https://www.yourwebsite.com)
