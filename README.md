@@ -1,6 +1,6 @@
 ### Hi there, I'm Amine! 👋
 
-I'm passionate about Art, Minimalism, and Creation. Currently, I'm diving into the realms of Data Science, IoT and Embedded Systems, exploring the intersection of technology and creativity.
+I'm passionate about Art, Minimalism, and Creation. Currently, I'm diving into the realms of Data Science, IoT, and Embedded Systems, exploring the intersection of technology and creativity.
 
 🔭 Currently working on projects that merge my interests in art and technology.
 
@@ -8,7 +8,7 @@ I'm passionate about Art, Minimalism, and Creation. Currently, I'm diving into t
 
 💬 Ask me about anything related to art, technology, or minimalism.
 
-📫 Reach me at: aminemayoufi@ieee.org
+👀 Active at: pexels.com/@nomino/gallery/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomino&label=Profile%20views&color=0e75b6&style=flat" alt="nomino0" /> </p>
 
@@ -16,9 +16,7 @@ I'm passionate about Art, Minimalism, and Creation. Currently, I'm diving into t
 
 [![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=nomino0&show_icons=true&theme=tokyonight)](https://github.com/nomino0/github-readme-stats)
 
-### Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomino0&show_icons=true&theme=tokyonight)](https://github.com/nomino0/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomino0&show_icons=true&&layout=compact)](https://github.com/nomino0/github-readme-stats) 
 
 ### Let's Connect
 
