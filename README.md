@@ -1,14 +1,16 @@
 ### Hi there, I'm Amine! 👋
 
-I'm passionate about Art, Minimalism, and Creation. Currently, I'm diving into the realms of IoT and Embedded Systems, exploring the intersection of technology and creativity.
+I'm passionate about Art, Minimalism, and Creation. Currently, I'm diving into the realms of Data Science, IoT and Embedded Systems, exploring the intersection of technology and creativity.
 
 🔭 Currently working on projects that merge my interests in art and technology.
 
-🌱 Learning more about IoT and Embedded Systems.
+🌱 Learning more about Artificial Intelligence.
 
 💬 Ask me about anything related to art, technology, or minimalism.
 
 📫 Reach me at: aminemayoufi@ieee.org
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nomino&label=Profile%20views&color=0e75b6&style=flat" alt="nomino0" /> </p>
 
 ### GitHub Stats
 
